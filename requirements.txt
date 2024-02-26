@@ -1,0 +1,9 @@
+#pip install -r requirements.txt
+
+json
+pprint
+pandas
+numpy
+seaborn
+matplotlib
+spotify
